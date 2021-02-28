@@ -4,7 +4,7 @@
 
 ### (click image below to redirect to youtube)
 
-[![Parallax comparison](http://img.youtube.com/vi/UundtlZStTM/0.jpg)](http://www.youtube.com/watch?v=UundtlZStTM "Parallax comparison")
+[![Parallax comparison](images/youtube.png)](http://www.youtube.com/watch?v=UundtlZStTM "Parallax comparison")
 
 ### Test images used:
 
