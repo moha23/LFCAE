@@ -8,7 +8,7 @@
 
 Ordering of SAIs to visualise the parallax:
 
-![horizontal_parallax](images/hor_prlx.png) | ![vertical_parallax](images/ver_prlx.png)
+![horizontal_parallax](images/prlx.png)
 
 
 ### Test images used:
